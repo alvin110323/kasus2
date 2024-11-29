@@ -1,0 +1,32 @@
+/* style1.css */
+
+/* Style untuk body */
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    background-color: #f4f4f9;
+    color: #333;
+}
+
+/* Style untuk header */
+h3 {
+    font-size: 24px;
+    color: #2c3e50;
+    border-bottom: 2px solid #2ecc71;
+    padding-bottom: 5px;
+}
+
+/* Style untuk list */
+ul {
+    list-style-type: square;
+    padding: 0;
+}
+
+li {
+    font-size: 18px;
+    margin: 5px 0;
+    padding: 5px;
+    border: 1px solid #bdc3c7;
+    border-radius: 5px;
+    background-color: #ecf0f1;
+}
